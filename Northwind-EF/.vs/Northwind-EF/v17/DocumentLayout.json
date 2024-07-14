@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC957AD3-EB97-45BA-9D31-E9FB0949E825}|Northwind-EF\\Northwind-EF.csproj|C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\northwind-ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC957AD3-EB97-45BA-9D31-E9FB0949E825}|Northwind-EF\\Northwind-EF.csproj|solutionrelative:northwind-ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC957AD3-EB97-45BA-9D31-E9FB0949E825}|Northwind-EF\\Northwind-EF.csproj|c:\\users\\bolt6\\onedrive\\desktop\\it fusion\\northwind-ef\\northwind-ef\\businesses\\categorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC957AD3-EB97-45BA-9D31-E9FB0949E825}|Northwind-EF\\Northwind-EF.csproj|solutionrelative:northwind-ef\\businesses\\categorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC957AD3-EB97-45BA-9D31-E9FB0949E825}|Northwind-EF\\Northwind-EF.csproj|c:\\users\\bolt6\\onedrive\\desktop\\it fusion\\northwind-ef\\northwind-ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FC957AD3-EB97-45BA-9D31-E9FB0949E825}|Northwind-EF\\Northwind-EF.csproj|solutionrelative:northwind-ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryBus.cs",
+              "DocumentMoniker": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\Northwind-EF\\Businesses\\CategoryBus.cs",
+              "RelativeDocumentMoniker": "Northwind-EF\\Businesses\\CategoryBus.cs",
+              "ToolTip": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\Northwind-EF\\Businesses\\CategoryBus.cs",
+              "RelativeToolTip": "Northwind-EF\\Businesses\\CategoryBus.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:32:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\Northwind-EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Northwind-EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\Northwind-EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Northwind-EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-14T11:31:08.183Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\Northwind-EF\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind-EF\\Program.cs",
+              "ToolTip": "C:\\Users\\bolt6\\OneDrive\\Desktop\\IT Fusion\\Northwind-EF\\Northwind-EF\\Program.cs",
+              "RelativeToolTip": "Northwind-EF\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:01:49.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
